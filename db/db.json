@@ -1,0 +1,49 @@
+{
+  "unidades": [
+    {
+      "id": "9a9a7a5c-0028-4461-bc00-9eca93cdb89c",
+      "unidUnidade": "km",
+      "unidRecStatus": "false",
+      "unidCreatedAt": "2022-05-26T13:09:10.383Z",
+      "unidUpdatedAt": "2022-05-26T13:09:10.383Z"
+    },
+    {
+      "id": "9a9a7a5c-0028-4461-bc00",
+      "unidUnidade": "L",
+      "unidRecStatus": "false",
+      "unidCreatedAt": "2022-05-26T13:09:10.383Z",
+      "unidUpdatedAt": "2022-05-26T13:09:10.383Z"
+    },
+    {
+      "id": "267593ec-7b7f-4fca-9151-181c84b63ebb",
+      "unidUnidade": "ml",
+      "unidRecStatus": "true",
+      "unidCreatedAt": "2022-05-26T15:44:22.116Z",
+      "unidUpdatedAt": "2022-05-26T15:44:22.116Z"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "23bc950c-432d-4d6a-a3c3-4d0c64055a89",
+      "prodRecStatus": "true",
+      "prodCodigo": 123,
+      "prodCodigoBarras": 123,
+      "prodDescricao": "teste",
+      "unidadesId": "9a9a7a5c-0028-4461-bc00-9eca93cdb89c",
+      "prodOrigem": "3",
+      "prodCreatedAt": "2022-05-26T15:08:38.191Z",
+      "prodUpdatedAt": "2022-05-26T15:08:38.191Z"
+    },
+    {
+      "id": "69a61c71-8bef-4310-a738-bd24806c261b",
+      "prodRecStatus": "true",
+      "prodCodigo": 123,
+      "prodCodigoBarras": 123,
+      "prodDescricao": "a",
+      "unidadesId": "9a9a7a5c-0028-4461-bc00-9eca93cdb89c",
+      "prodOrigem": "2",
+      "prodCreatedAt": "2022-05-26T15:50:58.759Z",
+      "prodUpdatedAt": "2022-05-26T15:50:58.759Z"
+    }
+  ]
+}
